@@ -1,5 +1,5 @@
 # Hello everybody! My name is [Pavel](https://www.linkedin.com/in/pavel-lopatin/), I am an experienced QA Manual and Automation Engineer  
-### This is a practice Readme.MD file. There are some tools i can work with:
+### There are some tools i can work with:
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
