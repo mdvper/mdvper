@@ -1,4 +1,4 @@
-# Hello everybody! My name is [Pavel](https://www.linkedin.com/in/pavel-lopatin/), I am an experienced QA Manual and Automation Engineer  
+# Hello everybody! My name is [Pavel](https://www.linkedin.com/in/pavel-lopatin/), I am an experienced QA Manual and Automation Software Engineer  
 ### There are list of tools i can work with:
 
 
